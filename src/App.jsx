@@ -54,8 +54,8 @@ import './App.css';
 
 const CONTACT_EMAIL = 'santhoshkumar290902@gmail.com';
 const PHONE_NUMBER = '+919025530104';
-const LINKEDIN_URL = 'https://www.linkedin.com/in/your-linkedin-profile/';
-const GITHUB_URL = 'https://github.com/your-github-username';
+const LINKEDIN_URL = 'https://www.linkedin.com/in/santhosh-kumar-p-7595a2237/';
+const GITHUB_URL = 'https://github.com/SanthoshKumar696';
 
 const navigation = [
   ['Home', 'home'],
@@ -299,10 +299,11 @@ function App() {
       <main>
         <section className="hero section-wrap" id="home">
           <div className="hero-copy">
-            <div className="availability"><span /> OPEN TO OPPORTUNITIES <b>·</b> INDIA</div>
             <p className="hero-overline">FULL STACK DEVELOPER <span>/</span> AI APPLICATION DEVELOPER</p>
-            <h1>Building digital<br />products that solve<br /><span>real-world problems.</span></h1>
-            <p className="hero-description">I’m <strong>Santhosh Kumar</strong>, a Full Stack Developer passionate about building scalable web applications, business management platforms, SaaS products, and intelligent digital solutions.</p>
+            <h1 className="hero-name">Santhosh<span className="mobile-name-break"><br /></span> Kumar</h1>
+            <div className="availability"><span /> OPEN TO OPPORTUNITIES <b>·</b> INDIA</div>
+            <h2 className="hero-tagline">Building digital products that solve <span>real-world problems.</span></h2>
+            <p className="hero-description">I’m a Full Stack Developer passionate about building scalable web applications, business management platforms, SaaS products, and intelligent digital solutions.</p>
             <div className="hero-technology"><span><Code2 size={15} /> React.js & Next.js</span><i /><span><Server size={15} /> Node.js & Backend</span><i /><span><Database size={15} /> Database Design</span><i /><span><Sparkles size={15} /> AI Applications</span></div>
             <div className="hero-actions"><a className="button button-primary" href="#projects">View My Projects <ArrowDownRight size={17} /></a><a className="button button-outline" href="#contact">Contact Me <ArrowRight size={16} /></a></div>
             <div className="hero-contact-strip">

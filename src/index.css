@@ -18,14 +18,14 @@
 }
 
 html {
-  min-width: 320px;
+  min-width: 300px;
   scroll-behavior: smooth;
   scroll-padding-top: 76px;
   background: #0c0d10;
 }
 
 body {
-  min-width: 320px;
+  min-width: 300px;
   margin: 0;
   background: #0c0d10;
 }
