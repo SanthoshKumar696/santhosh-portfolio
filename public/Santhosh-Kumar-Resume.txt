@@ -1,0 +1,44 @@
+SANTHOSH KUMAR
+Full Stack Developer | AI Application Developer
+Sholinghur, Ranipet District, Tamil Nadu, India
+
+CONTACT
+Email: santhoshkumar290902@gmail.com
+Phone: +91 90255 30104
+LinkedIn: Add profile URL
+GitHub: Add profile URL
+
+PROFESSIONAL SUMMARY
+Full Stack Developer with practical product-development contributions across web applications, business management systems, ERP solutions, e-commerce platforms, and SaaS products. Works across frontend and backend development, REST API integration, database architecture, authentication, debugging, optimization, and deployment. Interested in AI-powered application development.
+
+TECHNICAL SKILLS
+Frontend: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, responsive web design
+Backend: Node.js, Express.js, Python, PHP, REST APIs, authentication, JWT, third-party API integration
+Database: PostgreSQL, MySQL, MongoDB, Prisma ORM, database design, query optimization
+Tools and deployment: Git, GitHub, VS Code, Postman, Linux VPS, Nginx, PM2, Docker, Azure
+Additional: SaaS, ERP, POS, e-commerce, mobile application integration, AI API integration
+
+SELECTED PROJECT CONTRIBUTIONS
+
+FoodZOAI — Restaurant POS & Management System
+Technology: React.js, TypeScript, .NET, PostgreSQL, REST APIs
+Contributed to frontend development, POS workflows, API integration, application state management, billing operations, menu management, and troubleshooting backend integration issues.
+
+Restaurant Delivery System — Food Ordering & Delivery Platform
+Technology: React Native, Expo, Node.js, PostgreSQL, REST APIs
+Worked on customer ordering workflows, backend API integration, order processing, admin order management, delivery assignment workflows, and application development.
+
+Beemji BuildMart — Building Materials E-commerce Platform
+Website: https://beemjibuildmart.com/
+Technology: Next.js, React.js, JavaScript, CSS, web technologies
+Contributed to website development, responsive UI implementation, product presentation, frontend improvements, and the digital customer experience.
+
+BuildZentra — Construction Management ERP
+Technology: Next.js, React.js, Node.js, Prisma ORM, PostgreSQL, React Native, Expo
+Contributed to product architecture planning, module design, database relationships, application workflows, and technical implementation planning. Listed modules are planned; this summary does not claim that all modules are live.
+
+EDUCATION
+Master of Science — Computer Science (M.Sc. Computer Science)
+Currently pursuing; institution details to be confirmed.
+
+Note: This profile includes only the information currently provided. Add confirmed profile links, institution, and any approved resume details before distribution.
